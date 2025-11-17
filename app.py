@@ -14,7 +14,7 @@ MODEL_ACCESS_KEY = os.environ.get("MODEL_ACCESS_KEY")
 DO_API_URL = "https://inference.do-ai.run/v1/async-invoke"
 
 # The model we want to use
-MODEL_ID = "fal-ai/flux/schnell"
+MODEL_ID = "fal-ai/fast-sdxl"
 
 # How long to wait between polling for results
 POLL_INTERVAL = 3 # 3 seconds
